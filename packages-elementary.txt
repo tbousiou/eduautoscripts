@@ -1,0 +1,4 @@
+gcompris
+tuxpaint
+tuxtype
+tuxmath
